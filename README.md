@@ -1,2 +1,2 @@
 # week001
-Week01 exercise
+Week01 Ready
